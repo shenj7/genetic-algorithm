@@ -1,8 +1,5 @@
 package main;
 
-import java.awt.Graphics2D;
-import java.util.ArrayList;
-
 import javax.swing.JComponent;
 
 import java.awt.Graphics;
